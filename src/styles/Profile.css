@@ -1,0 +1,28 @@
+/* Profile.css */
+
+.container {
+  margin-top: 20px;
+  flex-direction: column;
+}
+
+.container h1{
+justify-self: center;
+align-self: center;
+}
+
+form {
+  background-color: white;
+  padding: 70px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  margin-top: 10px;
+}
+
+.customInput{
+  margin-bottom: 20px;
+}
+
+/* Additional Bootstrap classes can be applied as needed */
